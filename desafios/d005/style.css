@@ -1,0 +1,7 @@
+#fotoperfil{
+    width: 260px;
+    height: 250px;
+    border-radius: 50%;
+    object-fit: cover;
+
+}
